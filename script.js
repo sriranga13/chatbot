@@ -23,8 +23,7 @@ function showContactInfo() {
 		<p>Find me on Github and LinkedIn:</p>
 		<a href="https://github.com/sriranga13/" target="_blank" class="icon-btn"><img src="github.jpg" alt="Github icon"></a>
 		<a href="https://www.linkedin.com/in/sri-gorantla-a9121b204/" target="_blank" class="icon-btn"><img src="linkedin.jpg" alt="LinkedIn icon"></a>
-		<li> Email: gorantlasriranga@gmail.com</li>
-		<li>Phone: 330-671-1989</li>
+		<a href="gorantlasriranga@gmail.com"> <button>Send an Email</button></a> 
 		<br>
 		<button id="main-menu-btn">Main Menu</button>
 	`;
